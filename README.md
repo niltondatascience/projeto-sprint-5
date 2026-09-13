@@ -18,7 +18,7 @@ pandas, plotly-express, streamlit
 
 ## Aplicativo online
 
-https://SEU-APP.onrender.com/
+https://projeto-sprint-5-akto.onrender.com/
 
 ## Executar localmente
 
